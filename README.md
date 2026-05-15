@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Namma-Nala Smart Irrigation Monitoring System
 
 ## Overview
@@ -108,3 +109,7 @@ Akash Subramanya C S
 
 <img width="169" height="360" alt="Screenshots_canalreport" src="https://github.com/user-attachments/assets/6027f9b4-f7f7-4f71-b20f-a1f66010a03e" />
 
+=======
+# NammaNala
+NammaNala 
+>>>>>>> ce2bf92278d99ae5e19d71e774cb59f0c765950c
