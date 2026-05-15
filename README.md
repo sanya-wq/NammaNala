@@ -1,26 +1,25 @@
-<<<<<<< HEAD
-# Namma-Nala Smart Irrigation Monitoring System
+# NammaNala – Canal Maintenance and Water Management App
 
 ## Overview
 
-Namma-Nala is an Android-based smart irrigation infrastructure monitoring system developed using Kotlin, Firebase Firestore, and Google Maps API. The application helps farmers report canal-related issues such as water leakage, silt accumulation, and canal breaches using GPS-enabled reporting.
+NammaNala is an Android application designed to support irrigation canal maintenance and improve communication between farmers and monitoring authorities. The application enables users to report canal-related problems quickly through a mobile interface and helps maintain proper water distribution in agricultural areas.
 
-The system also provides an admin monitoring dashboard for irrigation infrastructure management and emergency tracking.
+The system provides separate interfaces for farmers and administrators to simplify issue reporting, monitoring, and infrastructure management.
 
 ---
 
 ## Features
 
-* GPS-based canal issue reporting
-* Google Maps integration
-* Firebase Firestore cloud database
-* Farmer reporting module
-* Admin monitoring dashboard
-* Water flow status simulation
-* Emergency canal breach alerts
-* Canal overlay visualization
-* Cloud-synced issue reports
-* Low-bandwidth optimized UI
+* User-friendly farmer interface
+* Canal problem reporting system
+* Location-based issue tracking
+* Admin management dashboard
+* Canal monitoring support
+* Complaint history viewing
+* Real-time cloud data storage
+* Simple and responsive UI
+* Google Maps support
+* Irrigation management assistance
 
 ---
 
@@ -28,40 +27,40 @@ The system also provides an admin monitoring dashboard for irrigation infrastruc
 
 * Android Studio
 * Kotlin
-* Firebase Firestore
+* Firebase
 * Google Maps API
-* FusedLocationProviderClient
-* SharedPreferences
-* XML Layout Design
 * RecyclerView
+* XML Layouts
+* SharedPreferences
 
 ---
 
-## Project Modules
+## Modules
 
-### Farmer Module
+### Farmer Section
 
-* Report canal issues
-* Capture GPS coordinates
-* View water status
-* View canal map
+* Submit canal complaints
+* View submitted reports
+* Access canal location map
+* Monitor water-related updates
 
-### Admin Module
+### Admin Section
 
-* Monitor canal reports
-* Emergency alert monitoring
-* Infrastructure status dashboard
+* View all complaints
+* Track canal conditions
+* Monitor irrigation activities
+* Manage infrastructure reports
 
 ---
 
-## Future Enhancements
+## Future Improvements
 
-* Firebase Authentication
-* Real-time report updates
-* Firebase Storage image archival
-* Push notifications
-* Advanced GIS canal mapping
-* Live water analytics
+* AI-based issue detection
+* Real-time notifications
+* Image upload support
+* Live irrigation analytics
+* Advanced map visualization
+* Multi-language support
 
 ---
 
@@ -74,10 +73,7 @@ https://github.com/sanya-wq/NammaNala.git
 
 ## Developed By
 
-Sanya Pateel
-
-
-
+Sanya
 
 
 
