@@ -68,13 +68,14 @@ The system also provides an admin monitoring dashboard for irrigation infrastruc
 ## GitHub Repository
 
 Repository Link:
-https://github.com/Akash-Subramanya1/NammaNala
+https://github.com/sanya-wq/NammaNala.git
 
 ---
 
 ## Developed By
 
-Akash Subramanya C S
+Sanya Pateel
+
 
 
 
